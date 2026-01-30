@@ -1,0 +1,11 @@
+tensorflow
+keras
+numpy
+opencv-python
+scikit-learn
+protobuf
+tensorboard
+tensorflow-estimator
+pip install mediapipe --no-deps
+pyttsx3
+python pip
